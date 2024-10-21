@@ -1,4 +1,4 @@
-import { RiFacebookBoxFill, RiFacebookFill, RiInstagramFill, RiInstagramLine, RiLinkedinFill } from "react-icons/ri";
+import {RiFacebookFill,RiInstagramLine, RiLinkedinFill } from "react-icons/ri";
 
 const Footer = () => {
   return (

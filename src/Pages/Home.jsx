@@ -97,16 +97,20 @@ const Home = () => {
                     <div id="item1" className="carousel-item">
                         <img
                             src={img1} 
+                            alt="Slide 1"
                         />
                     </div>
                 <div id="item2" className="carousel-item w-full">
                     <img
                     src={img2}
+                    alt="Slide2"
                     className="w-full" />
+                
                 </div>
                 <div id="item3" className="carousel-item w-full">
                     <img
                     src={img3}
+                    alt="Slide3"
                     className="w-full" />
                 </div>
                 </div>
