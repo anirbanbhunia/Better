@@ -1,10 +1,4 @@
 import { Route, Routes } from "react-router";
-import BigCard from "./Components/Card/BigCard";
-import BigCard2 from "./Components/Card/BigCard2";
-import SmallCard from "./Components/Card/SmallCard";
-import Footer from "./Components/Footer";
-import NavBar from "./Components/NavBar";
-import NavBar2 from "./Components/NavBar2";
 import AboutUs from "./Pages/AboutUs";
 import Home from "./Pages/Home";
 import MortgageCalculator from "./Pages/MortgageCalculator";
